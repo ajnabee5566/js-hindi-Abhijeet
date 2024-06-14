@@ -6,3 +6,8 @@
 //     }
 //     console.log(element);
 // }
+let myArray =["abhi","kashak","anu"]
+for(let i=0;i<myArray.length;i++){
+    const element = myArray[i];
+    console.log(element)
+}
